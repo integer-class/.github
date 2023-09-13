@@ -9,8 +9,8 @@ Hey there! We're the International Class of 2022 from the State Polytechnic of M
 - **Major:** Information Technology
 - **Program:** D-IV Informatics Engineering
 - **Total Students:** 27
-  - **Ladies:** 7 👩
-  - **Gents:** 20 👨
+  - **Ladies:** 8 👩
+  - **Gents:** 19 👨
 
 ## What You'll Find Here 📂
 
